@@ -6,4 +6,5 @@ file: | file contains:
 ------|------------------
 licence | licence file
 readme.md | descripthion
+# у проекта нет надежды на свет:
 
