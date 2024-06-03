@@ -9,4 +9,4 @@ readme.md | descripthion
 # описание проекта:
 в этой игре вы играете друг против друга и вы должны отбивать шарик чтобы он не ушел за левую или правую рамку экрана
 # photo
-//github.com/abemebamik/pingpong/commit/019a161d8c641b32f70a1c8f6d4cb04744399526
+github.com/abemebamik/pingpong/commit/019a161d8c641b32f70a1c8f6d4cb04744399526
